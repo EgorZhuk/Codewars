@@ -1,5 +1,8 @@
 // https://www.codewars.com/kata/539de388a540db7fec000642
 
+// 7 kyu
+// The Coupon Code
+
 // DESCRIPTION:
 // Story
 // Your online store likes to give out coupons for special occasions. Some customers try to cheat the system by entering invalid codes or using expired coupons.
