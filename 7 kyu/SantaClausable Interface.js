@@ -27,6 +27,7 @@
 // isSantaClausable(santa); // must return TRUE
 // isSantaClausable(notSanta); // must return FALSE
 
+
 function isSantaClausable(obj) {
   return ['sayHoHoHo', 'distributeGifts', 'goDownTheChimney'].every(function(methodName) {
     return typeof obj[methodName] == 'function';
